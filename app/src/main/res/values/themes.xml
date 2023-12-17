@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calccul" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#7383D5</item>
+        <item name="colorPrimaryVariant">#E3A593</item>
+        <item name="colorOnPrimary">#7383D5</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/blue5</item>
+    </style>
+
+    <style name="Theme.Calccul" parent="Base.Theme.Calccul" />
+</resources>
